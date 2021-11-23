@@ -26,19 +26,19 @@
        Games played on three-in-a-row boards can be traced back to ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
        An early variation of tic-tac-toe was played in the Roman Empire, around the first century BC.
 # SWOT Analysis
-![SWOT Analysis](https://user-images.githubusercontent.com/71758695/142768626-0ccf69be-aba4-4801-b202-faa0d9079f47.png)
+![132489093-74db5208-d7ad-4bbb-ae92-bdd5ff7350d4](https://user-images.githubusercontent.com/71758695/143002996-e9bf580b-b45a-479c-a6e1-9dd13270820a.png)
+
 # 4W's and 1'H
-## Who:
-      Today, Tic-Tac-Toe is played worldwide, albeit not always under the same name.
-      When played in England, it's generally referred to as “noughts and crosses,” the same name it had when it first appeared on the scene in the 1800s.
-### What:
-      Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O.
-      The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
-         
-#### When:
-       An early variation of tic-tac-toe was played in the Roman Empire, around the first century BC.
-##### Where:
-       Tic Tac Toe is a game where such game boards have been found on roofing tiles dating from around 1300 BC.
+## WHO
+     Anyone who gets stressed and childers during fun hours can play the game to have some relaxation.
+### WHAT
+     This project is concerned about developing a game which makes us to think logically to win the game.
+#### WHEN
+     The children are encouraged to think more logically. They, naturally develop their logical-mathematical thinking, which can help them in subjects such as math and engineering in the future.
+##### WHY
+     As this project uses C programming language it can be easy to understand the logic.
+###### HOW
+     Implemented using Functions , loops and other functionalities of C.
 # Detail requirements
 ## High Level Requirements:
 ### Windows
