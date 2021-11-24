@@ -1,4 +1,4 @@
 # M1_game_tictactoe
 | Static Code Analysis | Git Inspector | Unity | Code Quality  |
-|---|---|---|---|---|
+|---|---|---|---|
 | [![Static Code Analysis](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/static.yml/badge.svg)](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/static.yml) | [![Git Inspector](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/git%20inspector.yml) | [![Unit Testing - Unity](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/unity.yml/badge.svg)](https://github.com/manikandan426/M1_game_tictactoe/actions/workflows/unity.yml)  | ![code Quality score](https://api.codiga.io/project/29915/score/svg)![Code Grade](https://api.codiga.io/project/29915/status/svg) |
